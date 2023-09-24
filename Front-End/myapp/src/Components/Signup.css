@@ -1,0 +1,45 @@
+.signupMainDiv{
+    background-image: url("../Assets/event.jpg");   
+     background-repeat:no-repeat;
+   left: 0;
+   right: 0;
+   height: 100%;
+     background-size:cover;
+     /* position: fixed; */
+     background-position:center;
+     padding-bottom: 20px;
+     padding-top: 20px;
+ }
+ .signupFormDiv{
+     margin: auto;
+     width: 30%;
+     border: 1px solid rgb(245, 245, 245);
+     padding: 10px;
+     border-radius: 5px;
+     margin-top: 20px;
+ }
+ 
+.signupLabel{
+     font-size: 10px;
+     color: white;
+ }
+ .signupInput{
+     height: 15px;
+     font-size: 8px;
+     width: 150px;
+ }
+ .btnSubmit{
+     height: 15px;
+     width: 50px;
+     font-size: 8px;
+    text-align: center;
+     margin-top: 10px;
+     background-color:red;
+ }
+ .signupMainName{
+    font-size: 18px;
+    font-family: cursive;
+    margin-left: 20px;
+    color: white;
+    position: fixed;
+}

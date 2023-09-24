@@ -1,0 +1,42 @@
+.signinMainDiv{
+   background-image: url("../Assets/event.jpg");   
+    background-repeat:no-repeat;
+  left: 0;
+  right: 0;
+  height: 100%;
+    background-size:cover;
+    position: fixed;
+    background-position:center;
+}
+.signinFormDiv{
+    margin: auto;
+    width: 20%;
+    border: 1px solid rgb(245, 245, 245);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.signinLabel{
+    font-size: 10px;
+    color: white;
+}
+.signinInput{
+    height: 15px;
+    font-size: 8px;
+    width: 110px;
+}
+.btnSubmit{
+    height: 20px;
+    width: 40px;
+    font-size: 8px;
+   text-align: center;
+    margin-top: 10px;
+    background-color:red;
+}
+.signinMainName{
+    font-size: 18px;
+    font-family: cursive;
+    margin-left: 20px;
+    color: white;
+}
